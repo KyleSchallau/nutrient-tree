@@ -1,4 +1,4 @@
 # nutrient-tree
-Compiles lists of foods and the respective nutrient and adds them to Excel workbooks.
+Compiles lists of foods and the respective nutrients and adds them to Excel workbook.
 
-Uses Selenium and Python to extract foods based on a particular vitamin from MyFoodData.com
+Uses Selenium and Python to extract foods and their nutrients
